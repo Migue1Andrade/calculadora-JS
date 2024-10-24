@@ -1,4 +1,4 @@
-body{
+body {
 	background-color: black;
 }
 
@@ -21,7 +21,7 @@ body{
 	border-radius: 100%;
 }
 
-.button:hover{
+.button:hover {
 	background-color: #a5a5a5;
 }
 
@@ -34,15 +34,15 @@ body{
 	color: white;
 }
 
-.orange{
+.orange {
 	background-color: orange;
 }
 
-.orange:hover{
+.orange:hover {
 	background-color: white;
 	color: orange;
 }
 
-.grey{
+.grey {
 	background-color: grey;
 }
